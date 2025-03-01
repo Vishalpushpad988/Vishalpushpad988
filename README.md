@@ -18,9 +18,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - **Databases**: MongoDB, MySQL
 - **Tools**: Git, Docker, VS Code
 
-// ## 📈 GitHub Stats
 
-// ![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishalpushpad988&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 
