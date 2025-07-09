@@ -13,9 +13,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🛠 Tech Stack
 
-- **Languages**:java , HTML, CSS, JavaScript
-- **Frameworks/Libraries**: React, Node.js, Express.js
-- **Databases**: MongoDB, MySQL
+- **Languages**:java , HTML, CSS, JavaScript ,C#
+- **Frameworks/Libraries**: React, Node.js, Express.js ,ASP.Net Visual Basic(VB.Net)
+- **Databases**: MongoDB, MySQL ,MS SQL Server
 - **Tools**: Git, Docker, VS Code
 
 
