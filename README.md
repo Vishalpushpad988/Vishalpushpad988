@@ -23,46 +23,15 @@ I enjoy solving real-world business problems through technology and continuously
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
+* **💻 Tech Languages:** C#, Java, JavaScript, HTML5, CSS3, ASP.NET, VB.NET
 
-* C#
-* Java
-* JavaScript
-* HTML5
-* CSS3
-* ASP.NET
-* VB.NET
+* **⚙️ Tech Frameworks & Libraries:** React.js, Next.js, Node.js, Express.js, ASP.NET Framework
 
-### ⚙️ Frameworks & Libraries
+* **🗄️ Tech Databases:** MS SQL Server, MySQL, MongoDB
 
-* React.js
-* Next.js
-* Node.js
-* Express.js
-* ASP.NET Framework
+* **🔧 Tech Tools & Platforms:** Git, GitHub, Docker, VS Code, Visual Studio, Postman
 
-### 🗄 Databases
-
-* MS SQL Server
-* MySQL
-* MongoDB
-
-### 🔧 Tools & Platforms
-
-* Git & GitHub
-* Docker
-* VS Code
-* Visual Studio
-* Postman
-
-### 🤖 AI Tools
-
-* ChatGPT
-* Claude AI
-* Microsoft Copilot
-* DeepSeek AI
-
----
+* **🤖 Tech AI Tools:** ChatGPT, Claude AI, Microsoft Copilot, DeepSeek AI
 
 ## 🚀 What I Love Building
 
